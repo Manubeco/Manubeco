@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emanuel Beco
 - 👀 I’m interested in basic programing
-- 🌱 I’m currently Javascript & Java
+- 🌱 I’m currently Java, Python & Javascript
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me just send me a message and i'll text you back
 
